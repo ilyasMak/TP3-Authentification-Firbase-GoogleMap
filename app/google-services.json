@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4853930441",
+    "project_id": "tp-for-androidstudio",
+    "storage_bucket": "tp-for-androidstudio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4853930441:android:b24b36f8a6c04c0e3f3018",
+        "android_client_info": {
+          "package_name": "com.example.tp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsjpfkKvS2mmv2gKiJW2abCgUJNY9XQJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
